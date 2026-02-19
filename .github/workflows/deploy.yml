@@ -22,3 +22,6 @@ jobs:
           script: |
             cd /var/www/blog
             docker-compose up -d --build
+      - name: Check secrets
+        run: |
+          echo "Server host is ${{ secrets.SERVER_HOST }}"
