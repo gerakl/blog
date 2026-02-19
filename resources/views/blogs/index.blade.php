@@ -39,7 +39,7 @@
         <main class="flex-grow w-full max-w-7xl mx-auto px-6 py-12">
             <header class="mb-16 text-center">
                 <h1 class="text-6xl font-extrabold tracking-tight mb-4 text-gray-900 dark:text-white">
-                    Our <span class="text-red-500">Blog1</span>
+                    Our <span class="text-red-500">Blog</span>
                 </h1>
                 <p class="text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto leading-relaxed">
                     Insights, tutorials, and stories from the Laravel ecosystem.
