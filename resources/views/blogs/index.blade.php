@@ -42,7 +42,7 @@
                     Our <span class="text-red-500">Blog</span>
                 </h1>
                 <p class="text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto leading-relaxed">
-                    Insights, tutorials, and stories from the Laravel ecosystem.
+                    111Insights, tutorials, and stories from the Laravel ecosystem.
                 </p>
             </header>
 
